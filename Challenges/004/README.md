@@ -7,4 +7,3 @@ Cozmic Robot Product Box a challenge from elzero academy challenges
 - SCSS
 - VS CODE Editor
 - On manjaro kde (Linux)
-
