@@ -26,11 +26,15 @@ a {
 
 .products {
   margin: 1.2rem auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 .products_item {
   border: 2px solid #f0f0f0;
   box-shadow: 2px 2px 8px #f0f0f0;
-  margin: inherit;
+  margin-top: 1.2rem;
   padding: 12px;
   width: 380px;
   overflow: hidden;
